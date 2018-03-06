@@ -1,5 +1,5 @@
-a= True
-b= False
+a= false
+b= true
 print("a is {0}".format(a))
 print("b is {0}".format(b))
 print("~a is {0}".format(not a))
