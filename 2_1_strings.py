@@ -26,8 +26,8 @@
 ###########################################
 ### another sample of printing a varibale #
 ###########################################
-pi = 3.14
+pi = 3
 print(pi)
 str_pi = str(pi)
 print("pi number is : ", pi)  # print each part of input separately
-print("pi number is : " + str(pi))  # concat two string
+print("pi str is : " + str(pi))  # concat two string
